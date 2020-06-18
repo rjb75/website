@@ -51,20 +51,17 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Graphic Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Custom designed high quality resources
     highlighted: false
-  - title: UX Design
+  - title: Software Development
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Anything from custom website development to a computer utility
     highlighted: true
-  - title: Interaction Design
+  - title: Technical Support
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Quick support for your entire team to minimize downtime
     highlighted: false
 portfolio:
   enable: true
