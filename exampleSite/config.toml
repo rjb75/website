@@ -1,5 +1,5 @@
 baseURL = "https://rjb75.netlify.app/"
-languageCode = "en-us"
+languageCode = "en-ca"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
