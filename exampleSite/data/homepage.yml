@@ -41,18 +41,12 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Bachelor of Science in Software Engineering
+    year: "2024"
+    academy: University of Calgary
+  - title: Alberta High School Diploma
+    year: "2019"
+    academy: Bishop Carroll High School (Calgary, AB)
 service:
   enable: true
   title: Services
