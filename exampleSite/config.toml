@@ -2,7 +2,7 @@ baseURL = "https://rjb75.netlify.app/"
 languageCode = "en-ca"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Robert Brown | Personal Website"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,11 +20,11 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = ""
 author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Robert Brown"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "hello@rjb75.com"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
@@ -51,14 +51,5 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/RobertJ_Brown"
 icon = "ti-twitter-alt"
