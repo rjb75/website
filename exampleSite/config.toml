@@ -32,7 +32,7 @@ phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://formspree.io/xleplbeo"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
