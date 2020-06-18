@@ -15,15 +15,12 @@ skill:
   - title: Web Design
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Leadership
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Graphic Design
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
-    color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
