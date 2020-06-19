@@ -1,24 +1,24 @@
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Current Goals"
   item:
-  - title : "Research and Plan"
+  - title : "Learn"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "I plan to make the most of my time at the University of Calgary in pursuit of my degree. Utilizing the time to work on both course requirements and personal projects."
     
   - title : "Design and Develop"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Gain experience by developing projects based on personal interest as well as contributing to other projects."
     
-  - title : "Deliver"
+  - title : "Network"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Work to make lasting connections both within my university community as well as in the industry."
 
 
 # team
 team:
-  enable: true
+  enable: false
   title : "My Team"
   team_member:
     - title : "Jack Schenziwe"
@@ -36,6 +36,6 @@ team:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   title : "My Clients"
   # clients logo comes from 'data/homepage.yml' file

@@ -21,7 +21,7 @@ name = "Contact"
 weight = 4
 [params]
 address = ""
-author = "Johnathan Smith"
+author = "Robert Brown"
 copyright = "Copyright &copy; 2020 Robert Brown"
 description = "This is meta description"
 email = "hello@rjb75.com"
